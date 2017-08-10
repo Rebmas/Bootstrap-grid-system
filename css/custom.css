@@ -1,11 +1,16 @@
-.main-heading {
-    text-align: center;
-    text-transform:uppercase;
-    font-weight:bold;
-}
+
 
 body{
     background-color:#e6e6e6;
+}
+.main-img{
+    height:105px;
+    width:105px;
+}
+.main-heading {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 .circle {
     display: inline-block;
