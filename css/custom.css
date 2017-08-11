@@ -1,28 +1,47 @@
-
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Abel');
 
 body{
-    background-color:#e6e6e6;
+    background-color: #e6e6e6;
+    font-family: 'Anton';
 }
-.main-img{
-    height:105px;
-    width:105px;
+
+.design-icon {
+    align-content: center;
+    width: 150px;
+    height: 150px;
 }
+
+.jumbotron {
+    height: 80px;
+    margin-top: 70px;
+}
+
+.justify-content-center {
+    text-align: center;
+    font-family: 'Abel';
+}
+.circle-text {
+    list-style: none;
+    text-align: center;
+}
+
 .main-heading {
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
 }
+
 .circle {
-    display: inline-block;
-    text-align: center;
+    margin-right: .8em;
+    margin-bottom: .8em;
+    font-size: 1.8em;
     border-radius: 100%;
-    border:solid white .8em;
-    width: 200px;
-    height:200px;
-    color:white;
-    text-transform: uppercase;
-    font-weight:bold;
-    padding-top:3.1em;
+    border:solid white .3em;
+    width: 6em;
+    height: 6em;
+    color: white;
+    padding-top: 1.9em;
 }
 
 #red{
