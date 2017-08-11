@@ -7,14 +7,14 @@ body{
 }
 
 .design-icon {
-    align-content: center;
-    width: 150px;
-    height: 150px;
+    background-image: url(../img/logo.png);
+    /*align-content: center;*/
+    /*width: 150px;*/
+    /*height: 150px;*/
 }
 
 .jumbotron {
     height: 80px;
-    margin-top: 70px;
 }
 
 .justify-content-center {
