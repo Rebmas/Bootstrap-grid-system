@@ -78,3 +78,18 @@ a {
 #teal {
     background-color: #00aba9;
 }
+.align-left{
+    text-align:left;
+}
+
+ .small-circle {
+     margin-right: .2em;
+     margin-bottom: .2em;
+     padding-top:1em;
+     padding-left:1em;
+     border-radius: 100%;
+     width: 3em;
+     height: 3em;
+
+
+}
