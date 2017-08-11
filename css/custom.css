@@ -85,11 +85,11 @@ a {
  .small-circle {
      margin-right: .2em;
      margin-bottom: .2em;
-     padding-top:1em;
-     padding-left:1em;
+     padding-top: .3em;
+     padding-left: 1em;
      border-radius: 100%;
-     width: 3em;
-     height: 3em;
+     width: 2em;
+     height: 2em;
 
 
 }
