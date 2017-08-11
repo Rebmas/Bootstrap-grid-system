@@ -7,26 +7,55 @@ body{
 }
 
 .design-icon {
-    background-image: url(../img/logo.png);
-    /*align-content: center;*/
+    /*background-image: url(../img/logo.png);*/
+    text-align: center;
+    margin-bottom:-9em;
+    margin-left:15em;
+
+/*align-content: center;*/
     /*width: 150px;*/
     /*height: 150px;*/
+
+}
+.jumbo-parent{
+
+   
 }
 
 .jumbotron {
     height: 80px;
+    margin-top:6em;
+    /*float:top;*/
+   /*background-image: url(../img/logo.png);*/
+    /*height:105px;*/
+    /*width:105px;*/
+            /*position:relative;*/
 }
+.logo-text{
+    font-family:'Abel';
+    text-align:center;
+    margin-top:10em;
+    font-weight:bold;
+    
+}
+ .main-bar{
+     text-align:center;
+     font-family:'Abel';
+      text-transform:uppercase;
+     word-spacing:1em;
+     font-size:25px;
+     }
 
-.justify-content-center {
-    text-align: center;
-    font-family: 'Abel';
-}
+ a {
+     color:black;
+     /*text-transform:uppercase;*/
+ }
 .circle-text {
     list-style: none;
     text-align: center;
 }
 
-.main-heading {
+.title{
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
